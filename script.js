@@ -9,7 +9,7 @@ var tag = document.createElement('script');
         player = new YT.Player('player', {
           height: '360',
           width: '640',
-          videoId: '9alGr5uSeuU',
+          videoId: 'dQw4w9WgXcQ',
           events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange
